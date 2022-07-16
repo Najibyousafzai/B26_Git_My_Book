@@ -1,4 +1,4 @@
 First Time :
-This is start of my book
-Page one will help us to get started
-Java is cool
+This is start of my book.
+Page one will help us to get started.
+Java is cool!
